@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Asad Yar 👋<br><br>I'm a Computer Science graduate from **COMSATS University Islamabad, passionate about building practical software solutions and exploring emerging technologies.<br><br>I'm particularly interested in **Software Engineering, Artificial Intelligence, Machine Learning, and Cybersecurity**. I enjoy turning ideas into functional applications, solving technical problems, and continuously improving my development skills through hands-on projects
+## Hi, I'm Asad Yar 👋<br><br>I'm a Computer Science graduate from COMSATS University Islamabad, passionate about building practical software solutions and exploring emerging technologies. I'm particularly interested in Software Engineering, Artificial Intelligence, Machine Learning, and Cybersecurity. I enjoy turning ideas into functional applications, solving technical problems, and continuously improving my development skills through hands-on projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asad-yar-692862339/) 
